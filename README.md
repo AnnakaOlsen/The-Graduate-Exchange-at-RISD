@@ -1,11 +1,11 @@
 # The Graduate Exchange at RISD
 
-The purpose of this document
+The purpose of this document is to create a guide to throwing this event within RISD that creates a safe envoirnment for all types of expression and criticism. We want the Graduate Exchange to benefit the needs of the community. This document is open to suggestions and writing from all memebers of the Graduate community at RISD.  
 
 ## Photography/video/audio recording policy
 
-Do not photograph, video, or audio record anyone at EVENT without their express permission, sought in advance.
-Red with [pattern]: Photographs never okay, don’t ask
+Do not photograph, video, or audio record anyone at The Graduate Exchange without their express permission, sought in advance.
+Wearing a NO PHOTO sticker: Photographs never okay, don’t ask.
 
 # Citizen Code of Conduct
 
@@ -43,7 +43,7 @@ The following behaviors are expected and requested of all community members:
 The following behaviors are unacceptable within our community:
 
   * Sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory jokes and language.
-  * Posting other people's personally identifying information.
+  * Posting other people's personally identifying information and intelectual property.
   * Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability.
   * Physical contact without consent. 
   * Unwelcome sexual attention. 
@@ -52,23 +52,23 @@ The following behaviors are unacceptable within our community:
 Anyone asked to stop unacceptable behavior is expected to comply immediately.
 
 
-## 8. Addressing Grievances
+## 5. Addressing Grievances within the institution
 
-If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify GOVERNING_BODY with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies. [LINK_TO_POLICY]
+All persons have the right to dissent and share their experiences without reprocutions as long as they do not harm other members of the community. We work to actively make those aware of ways the institution have failed individual members of our community in a way that moves towards productive outcomes, even if that primarily in the pursuit of self care and/or protest.   
 
-[NOTE: Every organization's governing policies should dictate how you handle warnings and expulsions of community members. It is strongly recommended that you mention those policies here or in Section 7 and that you include a mechanism for addressing grievances.]
+## 6. Scope
 
-## 9. Scope
-
-We expect all community participants (contributors, paid or otherwise; sponsors; and other guests) to abide by this Code of Conduct in all community venues--online and in-person--as well as in all one-on-one communications pertaining to community business.
+We expect all community participants to abide by this Code of Conduct in all community venues--online and in-person--as well as in all one-on-one communications pertaining to community business.
 
 This code of conduct and its related procedures also applies to unacceptable behavior occurring outside the scope of community activities when such behavior has the potential to adversely affect the safety and well-being of community members.
 
-## 10. Contact info
+## 7. Contributors 
 
-[YOUR CONTACT INFO HERE -- this should be a single person or a small team who can respond to issues directly]
+All who have contirbuted to this document. 
+Annaka Olsen, Anonymous, 
 
-## 11. License and attribution
+
+## 8. License and attribution for orignal document format
 
 [Stumptown Syndicate](http://stumptownsyndicate.org) under a 
 [Creative Commons At[Django Code of Conduct](https://www.djangoproject.com/conduct/) and the 

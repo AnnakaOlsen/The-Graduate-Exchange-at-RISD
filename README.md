@@ -2,7 +2,7 @@
 
 The purpose of this document is to create a guide to throwing this event within RISD that creates a safe envoirnment for all types of expression and criticism. We want the Graduate Exchange to benefit the needs of the community. This document is open to suggestions and writing from all memebers of the Graduate community at RISD.  
 
-## Photography/video/audio recording policy
+## Photography/video recording policy
 
 Do not photograph or video anyone at The Graduate Exchange without their express permission, sought in advance.
 Wearing a NO PHOTO sticker: Photographs never okay, don’t ask.

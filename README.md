@@ -4,7 +4,7 @@ The purpose of this document is to create a guide to throwing this event within 
 
 ## Photography/video/audio recording policy
 
-Do not photograph, video, or audio record anyone at The Graduate Exchange without their express permission, sought in advance.
+Do not photograph or video anyone at The Graduate Exchange without their express permission, sought in advance.
 Wearing a NO PHOTO sticker: Photographs never okay, don’t ask.
 
 # Citizen Code of Conduct
